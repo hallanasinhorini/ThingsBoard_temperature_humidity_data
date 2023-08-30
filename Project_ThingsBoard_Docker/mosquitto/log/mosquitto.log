@@ -1,0 +1,21 @@
+1693164517: mosquitto version 2.0.17 starting
+1693164517: Config loaded from /mosquitto/config/mosquitto.conf.
+1693164517: Opening ipv4 listen socket on port 1883.
+1693164517: Opening ipv6 listen socket on port 1883.
+1693164517: mosquitto version 2.0.17 running
+1693165539: New connection from 172.24.0.1:33500 on port 1883.
+1693165539: New connection from 172.24.0.1:33502 on port 1883.
+1693165539: Client <unknown> disconnected due to protocol error.
+1693165540: Client <unknown> disconnected due to protocol error.
+1693165540: New connection from 172.24.0.1:33504 on port 1883.
+1693165540: Client <unknown> disconnected due to protocol error.
+1693165540: New connection from 172.24.0.1:33520 on port 1883.
+1693165540: Client <unknown> disconnected due to protocol error.
+1693165541: New connection from 172.24.0.1:33522 on port 1883.
+1693165541: New connection from 172.24.0.1:33528 on port 1883.
+1693165541: Client <unknown> disconnected due to protocol error.
+1693165546: Client <unknown> disconnected due to protocol error.
+1693165546: New connection from 172.24.0.1:33544 on port 1883.
+1693165546: Client <unknown> disconnected due to protocol error.
+1693165546: New connection from 172.24.0.1:33552 on port 1883.
+1693165546: Client <unknown> disconnected due to protocol error.
